@@ -1,0 +1,42 @@
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif !important;
+}
+.text-theme{
+    color: #bfc8de !important;
+}
+
+.bg{
+    background: #69bbc6f3!important;
+    border: 1px solid #1f402b!important;
+    box-shadow: 0 0 10px rgba(36, 60, 28, 0.1);
+    border-radius: 7px;
+    padding: 20px 20px;
+}
+
+.search{
+    color: black !important;
+    background-color: #fefefd!important;
+    border-color: rgba(255,255,255,.1)!important;
+    border-radius: 25px !important;
+}
+.search-btn{
+    position: absolute;
+    top: 0;
+    right: 12px;    
+    color: #b4bdce;
+}
+
+
+.table thead th{
+    border: 1px solid rgba(233, 237, 227, 0.1) !important;
+    color: #020202;
+    font-size: 16px;
+    vertical-align: middle;
+}
+
+.table tbody td{
+    border: 1px solid rgba(234,236,241,.1) !important;
+    color: rgb(79, 14, 14) !important;
+    vertical-align: middle;
+}
+
